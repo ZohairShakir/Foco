@@ -2,11 +2,10 @@
 
 > A clean, interactive personal finance dashboard built with React.
 
-![FinSight Preview](https://via.placeholder.com/1200x630/080C18/00D9A3?text=FinSight+Finance+Dashboard)
 
 ## 🚀 Live Demo
 
-**[→ View Live on Vercel](#)** *(replace with your deployment URL)*
+**https://finsightl.vercel.app** 
 
 ---
 
