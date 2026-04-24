@@ -46,7 +46,7 @@ Foco is packed with essential tools for peak productivity:
 | **Backend** | Node.js, Express.js |
 | **Database** | MongoDB (Mongoose) |
 | **Authentication** | JWT (JSON Web Tokens), bcrypt |
-| **Deployment** | Vercel (Frontend), Render (Backend) |
+| **Deployment** | Vercel (Frontend), Railway (Backend) |
 
 ---
 
