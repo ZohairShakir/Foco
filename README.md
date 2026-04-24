@@ -1,7 +1,54 @@
-# 🚀 Foco — Smart Task Management App
+# FinSight — Finance Dashboard
 
-## 🌟 Overview
-Foco is a high-performance, minimalist task management ecosystem designed for professionals who prioritize clarity and execution. Built with the MERN stack and a focus on premium UI/UX, it transforms chaotic to-do lists into a streamlined, priority-driven workflow. Whether you're managing daily sprints or long-term goals, Foco provides the visual intelligence and security needed to stay ahead.
+> A clean, interactive personal finance dashboard built with React.
+
+![FinSight Preview](https://via.placeholder.com/1200x630/080C18/00D9A3?text=FinSight+Finance+Dashboard)
+
+## 🚀 Live Demo
+
+**[→ View Live on Vercel](#)** *(replace with your deployment URL)*
+
+---
+
+## 📦 Tech Stack
+
+| Layer           | Choice                        |
+|----------------|-------------------------------|
+| Framework       | React 18 + Vite               |
+| State Management| React Context + useReducer    |
+| Charts          | Recharts                      |
+| Styling         | Custom CSS (design tokens)    |
+| Persistence     | localStorage                  |
+| Data            | Static mock data (~90 tx)     |
+
+---
+
+## ⚡ Quick Start
+
+```bash
+# 1. Install dependencies
+npm install
+
+# 2. Start dev server
+npm run dev
+
+# 3. Open in browser
+# → http://localhost:5173
+```
+
+### Build for Production
+
+```bash
+npm run build    # outputs to /dist
+npm run preview  # preview the production build
+```
+
+### Deploy to Vercel (one click)
+
+1. Push this repo to GitHub
+2. Go to [vercel.com](https://vercel.com) → Import Project
+3. Select the repo — Vercel auto-detects Vite
+4. Click Deploy ✅
 
 ---
 
